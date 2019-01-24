@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ToDo App</string>
+    <string name="select_one">SELECT ONE</string>
+    <string name="create">CREATE</string>
+    <string name="delete_one">DELETE ONE</string>
+    <string name="title">Title</string>
+    <string name="todo">Todo</string>
+    <string name="delete">DELETE</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="delete_todo">Delete todo</string>
+    <string name="confirm_delete">Do you really want to delete this item?</string>
+</resources>
